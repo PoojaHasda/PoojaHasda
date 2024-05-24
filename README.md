@@ -7,8 +7,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://www.codechef.com/users/poojahasda143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="poojahasda143" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/poojahasda143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojahasda143" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pooja hasda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja hasda" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/poojahasda19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poojahasda19" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/poojahaluqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="poojahaluqu" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
