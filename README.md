@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Hasda</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate full stack java developer</h3>
 
 <ul><li type="disc"><center>🌱 I’m currently learning Spring Boot</center></li>
 <li type="disc"><center>📫 How to reach me <a href="poojahasda143@gmail.com">poojahasda143@gmail.com</a></center></li></ul> 
