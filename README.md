@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojahasda" alt="poojahasda" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website - QuickKart**
+- 🔭 I’m currently working on **Enotes - Production level Real Time Project**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot Rest API**
 
 - 📫 How to reach me **poojahasda143@gmail.com**
 
